@@ -1,0 +1,13 @@
+
+o
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 8Œ¨Ù‹ü2
+D
+java:S1185"(Remove this method to simply inherit it.(™”” 8¨Ù‹ü2
+S
+java:S1854"6Remove this useless assignment to local variable "a2".(±‚ŸË8¨Ù‹ü2
+S
+java:S1854"6Remove this useless assignment to local variable "a1".(„¬§¤8¨Ù‹ü2
+D
+java:S1481"'Remove this unused "a1" local variable.(„¬§¤8¨Ù‹ü2
+D
+java:S1481"'Remove this unused "a2" local variable.(±‚ŸË8¨Ù‹ü2

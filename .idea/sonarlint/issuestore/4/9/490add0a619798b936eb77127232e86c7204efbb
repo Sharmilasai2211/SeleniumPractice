@@ -1,0 +1,22 @@
+
+Y
+java:S4973("<Strings and Boxed types should be compared using "equals()".(İÖ·ª8ü¾®«á2
+^
+java:S4973)"<Strings and Boxed types should be compared using "equals()".(†Á¸ÿÿÿÿÿ8ş¾®«á2
+O
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8ÓŠ˜Œü2
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8Í°–Şà2
+L	java:S106"+Replace this use of System.out by a logger.(˜àìÀúÿÿÿÿ8äğ”Şà2
+L	java:S106"+Replace this use of System.out by a logger.(à—ª©şÿÿÿÿ8çô•Şà2
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8€¿—Şà2
+G	java:S106"+Replace this use of System.out by a logger.(¤ ÉÎ8Î°–Şà2
+L	java:S106"+Replace this use of System.out by a logger.(À¯ª´ıÿÿÿÿ8€¿—Şà2
+L	java:S106"+Replace this use of System.out by a logger.(Œ‚Êáÿÿÿÿÿ8‰ö˜Şà2
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8©ä•Œü2
+G	java:S106"+Replace this use of System.out by a logger.(ŠÍ¤‰8‡¿®«á2
+G	java:S106"+Replace this use of System.out by a logger.(Ì™£Î8‡¿®«á2
+G	java:S106("+Replace this use of System.out by a logger.(İÖ·ª8«ä•Œü2
+L	java:S106)"+Replace this use of System.out by a logger.(†Á¸ÿÿÿÿÿ8æŠ˜Œü2

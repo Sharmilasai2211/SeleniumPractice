@@ -1,0 +1,5 @@
+
+L	java:S106 "+Replace this use of System.out by a logger.(ëÇ†îÿÿÿÿÿ8ºŠÇ²à2
+Q
+java:S1874("4Remove this use of "getAttribute"; it is deprecated.(ÆŒìª8ª›Î²à2
+L	java:S106."+Replace this use of System.out by a logger.(æ§¤ìúÿÿÿÿ8¾ŠÇ²à2

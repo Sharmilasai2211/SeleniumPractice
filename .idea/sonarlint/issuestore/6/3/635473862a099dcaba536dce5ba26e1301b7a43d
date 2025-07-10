@@ -1,0 +1,9 @@
+
+V
+java:S5993"9Change the visibility of this constructor to "protected".(èïÙí8´¼ûÓş2
+L	java:S106"+Replace this use of System.out by a logger.(ÉŠï½üÿÿÿÿ8ë­ƒÔş2
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8‘ˆÔş2
+G	java:S106"+Replace this use of System.out by a logger.( §‡İ8Œ°„Ôş2
+X	java:S125"<This block of commented-out lines of code should be removed.(Û“¤8®ö§Öş2
+L	java:S106 "+Replace this use of System.out by a logger.(À¯ª´ıÿÿÿÿ8üı—Ôş2

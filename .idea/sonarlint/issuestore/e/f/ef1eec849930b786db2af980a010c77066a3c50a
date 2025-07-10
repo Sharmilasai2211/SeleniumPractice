@@ -1,0 +1,15 @@
+
+W	java:S125"<This block of commented-out lines of code should be removed.(¨˜ì8¢³£³à2
+L	java:S106/"+Replace this use of System.out by a logger.(‘¿°Øÿÿÿÿÿ8°³£³à2
+L	java:S1066"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8±³£³à2
+]	java:S125="<This block of commented-out lines of code should be removed.(„×†¢øÿÿÿÿ8²³£³à2
+L	java:S106D"+Replace this use of System.out by a logger.(ÖÖ¼›ıÿÿÿÿ8³³£³à2
+c
+java:S1128"FRemove this unused import 'io.github.bonigarcia.wdm.WebDriverManager'.(°Ëõ‰8ÿåâ2
+j
+java:S1128"MRemove this unused import 'org.openqa.selenium.support.ui.ExpectedCondition'.(Ü¥ö’8€æâ2
+R
+java:S1128
+"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8€æâ2
+W
+java:S1128":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş8€æâ2

@@ -1,0 +1,11 @@
+
+™
+java:S1130"wRemove the declaration of thrown exception 'java.net.MalformedURLException', as it cannot be thrown from method's body.(•®¿üÿÿÿÿ8±Ëõà2
+L	java:S106H"+Replace this use of System.out by a logger.(²¼¯øÿÿÿÿ8ù«ºßà2
+G	java:S106K"+Replace this use of System.out by a logger.(Œù÷Œ8ú«ºßà2
+G	java:S106O"+Replace this use of System.out by a logger.(§ğöâ8ú«ºßà2
+G	java:S106U"+Replace this use of System.out by a logger.(·Àõ©8û«ºßà2
+U
+java:S1128"3Remove this unused import 'org.joda.time.DateTime'.(×¥…©úÿÿÿÿ8¡î•õà2
+K
+java:S1128")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ8€Ìõà2

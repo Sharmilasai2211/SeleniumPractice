@@ -1,0 +1,10 @@
+
+d
+java:S1192"IDefine a constant instead of duplicating this literal "Sharmila" 3 times.(©òĞºøÿÿÿÿ
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(‰ıáä
+E	java:S106"+Replace this use of System.out by a logger.(£÷›µûÿÿÿÿ
+;
+java:S2129" Remove this "String" constructor(‹îÜÃıÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ÛÄ×Íıÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(‰ıáä

@@ -1,0 +1,12 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(Áş½ıÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(Áş½ıÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áş½ıÿÿÿÿ
+Z
+java:S1854"?Remove this useless assignment to local variable "fluent_wait".(Áş½ıÿÿÿÿ
+S
+java:S1874"6Remove this use of "implicitlyWait"; it is deprecated.(µ÷®8ƒô©à2
+K
+java:S1481"0Remove this unused "fluent_wait" local variable.(Áş½ıÿÿÿÿ

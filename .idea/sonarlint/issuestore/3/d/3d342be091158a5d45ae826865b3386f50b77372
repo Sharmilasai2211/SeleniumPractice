@@ -1,0 +1,11 @@
+
+]	java:S125,"<This block of commented-out lines of code should be removed.(ÁÒÎşÿÿÿÿ8•Ş§ÿş2
+]
+java:S1128";Remove this unused import 'org.openqa.selenium.WebElement'.(‰ïµ”şÿÿÿÿ8—Ş§ÿş2
+p
+java:S1128	"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ8—Ş§ÿş2
+f
+java:S1128
+"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó8—Ş§ÿş2
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8—Ş§ÿş2
