@@ -1,4 +1,4 @@
-package org.example.JavaTest;
+package org.example.JavaTest.CollectionTest;
 
 
 abstract class Dummy{

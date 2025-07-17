@@ -2,17 +2,18 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT" verbose="0">
   <test thread-count="5" name="C:/Users/UX507801/Documents/L2/SeleniumPractice/src/main/java/org/example/Automation/FlipkartFilterEx.java(failed)" verbose="0">
+    <groups>
+      <run>
+        <include name="smoke"/>
+        <include name="smoke"/>
+      </run>
+    </groups>
     <classes>
-      <class name="org.example.Automation.FlipkartFilterEx">
+      <class name="org.example.Automation.selenium4.Selenium4Features">
         <methods>
-          <include name="cleanUp"/>
-          <include name="selectColors"/>
-          <include name="getScreenshot"/>
-          <include name="sortProducts"/>
-          <include name="removeOffer"/>
-          <include name="setUp"/>
+          <include name="objectLocation"/>
         </methods>
-      </class> <!-- org.example.Automation.FlipkartFilterEx -->
+      </class> <!-- org.example.Automation.selenium4.Selenium4Features -->
     </classes>
   </test> <!-- C:/Users/UX507801/Documents/L2/SeleniumPractice/src/main/java/org/example/Automation/FlipkartFilterEx.java(failed) -->
 </suite> <!-- Failed suite [All Test Suite] -->

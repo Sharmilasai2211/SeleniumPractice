@@ -54,16 +54,8 @@ f
 6src/main/java/org/example/JavaTest/ObjectCreation.java,7\6\7663e63fc59365171e84f3f5e0f2e068658bae9a
 ^
 .src/main/java/org/example/JavaTest/Blocks.java,2\8\287c62fdec138d6bae746950cf07012d36c7b241
-h
-8src/main/java/org/example/JavaTest/JavaCollectionEx.java,b\f\bfdcbd9d8590f1ae0a4187583638f61f2d7de7a8
 c
 3src/main/java/org/example/JavaTest/StudentDemo.java,2\7\27b11022d809e26658943b9a7467add62a329742
-e
-5src/main/java/org/example/JavaTest/MapTraversals.java,d\4\d41f8617745f43d838e9c053e9ff6dedfd4d18e9
-f
-6src/main/java/org/example/JavaTest/HashMapSorting.java,7\d\7d8ddd782b9c0da8a616315650c4531924920c68
-l
-<src/main/java/org/example/JavaTest/AbstractClassExample.java,6\3\635473862a099dcaba536dce5ba26e1301b7a43d
 e
 5src/test/java/org/example/RestAssuredPostRequest.java,6\0\6036f8669aadc3f3eb8f55188bed507db5fc0d39
 f
@@ -72,11 +64,15 @@ i
 9src/main/java/org/example/JavaTest/JavaBasicPrograms.java,b\1\b179936bfe53f22c5fef36f62ad5b5256a1e8c57
 d
 4src/main/java/org/example/Automation/UploadFile.java,c\e\ce45a62c863dfdbb370e34b4dd064e3eef33152d
-a
-1src/main/java/org/example/JavaTest/HashSetEx.java,c\e\ce269ad37ed384b72668e94ecc30aa411d314ce6
 \
 ,test-output/All Test Suite/testng-failed.xml,6\b\6be5a35f364d4a12f450dc3a49c10769c8eeac94
 u
 Esrc/main/java/org/example/Automation/selenium4/Selenium4Features.java,6\d\6d8a299539f8ae78aad7f255a8e6438f6c9aaef1
 x
 Hsrc/main/java/org/example/Automation/selenium4/RelativeLocatorsDemo.java,3\d\3d342be091158a5d45ae826865b3386f50b77372
+u
+Esrc/main/java/org/example/JavaTest/CollectionTest/HashMapSorting.java,e\b\ebae8630129fae36622f11383747aece457e467b
+x
+Hsrc/main/java/org/example/JavaTest/CollectionTest/CollectionMethods.java,c\1\c1e1c999a06e6e9bf3f6c95df7a4fe5d46da724b
+h
+8src/main/java/org/example/JavaTest/WithOutLambdaExp.java,0\0\00aee136bad6755efa233cd1104c56e0efe4766f

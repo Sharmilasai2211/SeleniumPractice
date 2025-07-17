@@ -1,4 +1,4 @@
-package org.example.JavaTest;
+package org.example.JavaTest.CollectionTest;
 
 import java.util.HashSet;
 import java.util.LinkedHashSet;

@@ -16,15 +16,16 @@ import java.time.Duration;
 
 public class Selenium4Features {
 
-    public static WebDriver driver;
+    public WebDriver driver;
 
-    @BeforeClass
+    @BeforeClass()
     public void setUp(){
         WebDriverManager.chromedriver().setup();
         driver = new ChromeDriver();
 
         driver.get("https://opensource-demo.orangehrmlive.com");
         driver.manage().window().maximize();
+        System.out.println("Executed");
 
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
     }
@@ -54,7 +55,7 @@ public class Selenium4Features {
         driver.switchTo().window(driver.getWindowHandles().stream().findFirst().orElseThrow());
     }
 
-    @Test
+    @Test(groups={"smoke","sanity"})
     void objectLocation(){
         WebElement logo = driver.findElement(By.xpath("//div[@class='orangehrm-login-branding']/img"));
         System.out.println(logo.getRect().getHeight());

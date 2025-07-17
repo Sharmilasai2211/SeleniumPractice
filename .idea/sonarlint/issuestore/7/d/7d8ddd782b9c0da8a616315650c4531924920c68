@@ -1,17 +1,0 @@
-
-L	java:S106"+Replace this use of System.out by a logger.(ü‹™ıÿÿÿÿ8“¨¸×ş2
-G	java:S106"+Replace this use of System.out by a logger.(æß‰¡8“¨¸×ş2
-F	java:S106"+Replace this use of System.out by a logger.(ªÓ¨28”¨¸×ş2
-L	java:S106"+Replace this use of System.out by a logger.(ü¨ø®øÿÿÿÿ8”¨¸×ş2
-L	java:S106#"+Replace this use of System.out by a logger.(ü‹™ıÿÿÿÿ8”¨¸×ş2
-L	java:S106%"+Replace this use of System.out by a logger.(ü¨ø®øÿÿÿÿ8•¨¸×ş2
-L	java:S106*"+Replace this use of System.out by a logger.(¦éşŠøÿÿÿÿ8–¨¸×ş2
-G	java:S106,"+Replace this use of System.out by a logger.(—’À8–¨¸×ş2
-L	java:S1062"+Replace this use of System.out by a logger.(Æ©µ®şÿÿÿÿ8–¨¸×ş2
-G	java:S1064"+Replace this use of System.out by a logger.(«¢±¥8—¨¸×ş2
-G	java:S106:"+Replace this use of System.out by a logger.(¼ÚİÉ8˜¨¸×ş2
-G	java:S106<"+Replace this use of System.out by a logger.(«¢±¥8˜¨¸×ş2
-L	java:S106@"+Replace this use of System.out by a logger.(º¯•¤şÿÿÿÿ8˜¨¸×ş2
-G	java:S106B"+Replace this use of System.out by a logger.(«¢±¥8™¨¸×ş2
-^
-java:S1128"ARemove this unused import 'groovyjarjarantlr4.runtime.tree.Tree'.(ÙÁËş8™¨¸×ş2

@@ -1,4 +1,4 @@
-package org.example.JavaTest;
+package org.example.JavaTest.CollectionTest;
 
 import groovyjarjarantlr4.runtime.tree.Tree;
 
