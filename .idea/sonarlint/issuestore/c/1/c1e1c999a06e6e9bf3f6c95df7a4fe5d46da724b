@@ -1,0 +1,7 @@
+
+^
+java:S1596"<Replace "Collections.EMPTY_SET" by "Collections.emptySet()".(®–íÇşÿÿÿÿ8øå˜í€3
+L	java:S106"+Replace this use of System.out by a logger.(——È×ÿÿÿÿÿ8‰æ˜í€3
+L	java:S106"+Replace this use of System.out by a logger.(®–íÇşÿÿÿÿ8Šæ˜í€3
+L	java:S106"+Replace this use of System.out by a logger.(ç¨üêúÿÿÿÿ8‹æ˜í€3
+L	java:S106"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8ç¯ší€3
