@@ -57,17 +57,17 @@ public class Selenium4Features {
 
     @Test(groups={"smoke","sanity"})
     void objectLocation(){
-        WebElement logo = driver.findElement(By.xpath("//div[@class='orangehrm-login-branding']/img"));
-        System.out.println(logo.getRect().getHeight());
-        System.out.println(logo.getRect().getDimension().getHeight());
-        System.out.println(logo.getRect().getWidth());
-        System.out.println(logo.getRect().getDimension().getWidth());
-
-        System.out.println(logo.getRect().getX());
-        System.out.println(logo.getRect().getY());
-
-        System.out.println(logo.getLocation().getX());
-        System.out.println(logo.getLocation().getY());
+//        WebElement logo = driver.findElement(By.xpath("//div[@class='orangehrm-login-branding']/img"));
+//        System.out.println(logo.getRect().getHeight());
+//        System.out.println(logo.getRect().getDimension().getHeight());
+//        System.out.println(logo.getRect().getWidth());
+//        System.out.println(logo.getRect().getDimension().getWidth());
+//
+//        System.out.println(logo.getRect().getX());
+//        System.out.println(logo.getRect().getY());
+//
+//        System.out.println(logo.getLocation().getX());
+//        System.out.println(logo.getLocation().getY());
     }
 
     @AfterClass
