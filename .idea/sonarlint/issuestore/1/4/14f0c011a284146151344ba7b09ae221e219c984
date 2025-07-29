@@ -1,0 +1,8 @@
+
+v
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ô²Ë¯8Êø¿ó3
+H
+java:S1659"&Declare "lastName" on a separate line.(ŞùÇıÿÿÿÿ8Ëø¿ó3
+L	java:S106$"+Replace this use of System.out by a logger.(ÿœ»şÿÿÿÿ8Ñø¿ó3
+X	java:S125+"<This block of commented-out lines of code should be removed.(ÿÖ³¸8Óø¿ó3
+L	java:S106/"+Replace this use of System.out by a logger.(â‘†ˆıÿÿÿÿ8Óø¿ó3

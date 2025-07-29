@@ -11,8 +11,10 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 public class JavaScriptExecutorEx {
     public static void main(String[] args) {
 
-//        DesiredCapabilities cap = ;
+        DesiredCapabilities cap = new DesiredCapabilities();
 //        cap.setCapability(CapabilityType.BROWSER_NAME,"chrome");
+        cap.setAcceptInsecureCerts(true);
+
 
         WebDriver driver = new ChromeDriver();
 

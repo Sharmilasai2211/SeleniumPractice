@@ -1,4 +1,4 @@
-package org.example.JavaTest;
+package org.example.Automation;
 import io.restassured.RestAssured;
 import io.restassured.module.jsv.JsonSchemaValidator;
 import io.restassured.response.Response;

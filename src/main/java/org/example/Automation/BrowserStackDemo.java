@@ -26,6 +26,8 @@ public class BrowserStackDemo {
         cap.setPlatform(Platform.WIN11);
         cap.setBrowserName("chrome");
         cap.setVersion("138.0");
+        cap.setAcceptInsecureCerts(true);
+
 
         System.out.println(url);
         WebDriver driver = new RemoteWebDriver(new URL(url), cap);

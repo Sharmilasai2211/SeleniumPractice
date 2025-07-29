@@ -1,0 +1,6 @@
+
+R
+java:S1854-"7Remove this useless assignment to local variable "map".(¨Ö„‚ýÿÿÿÿ
+E	java:S106+"+Replace this use of System.out by a logger.(€žÖ¹úÿÿÿÿ
+C
+java:S1481-"(Remove this unused "map" local variable.(¨Ö„‚ýÿÿÿÿ

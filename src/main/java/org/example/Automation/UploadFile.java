@@ -9,8 +9,8 @@ import java.io.File;
 import java.io.IOException;
 import java.time.Duration;
 import java.util.concurrent.TimeUnit;
-//import org.slf4j.Logger;
-//import org.slf4j.LoggerFactory;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 public class UploadFile {
 
@@ -19,11 +19,11 @@ public class UploadFile {
     public static void main(String[] args) throws IOException {
 
         WebDriver driver = new ChromeDriver();
-//        Logger logger = LoggerFactory.getLogger(UploadFile.class);
+        Logger logger = LoggerFactory.getLogger(UploadFile.class);
         driver.navigate().to("https://demo.guru99.com/test/upload/");
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
         driver.manage().window().maximize();
-
+        logger.info("");
         UploadFilePage page = new UploadFilePage(driver);
         page.uploadFile("C:\\Users\\UX507801\\Documents\\Bugs raised.txt");
         page.setAccept_terms();

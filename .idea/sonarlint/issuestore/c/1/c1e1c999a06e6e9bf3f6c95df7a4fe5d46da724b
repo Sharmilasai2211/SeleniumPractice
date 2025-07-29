@@ -1,7 +1,14 @@
 
 ^
-java:S1596"<Replace "Collections.EMPTY_SET" by "Collections.emptySet()".(®–íÇşÿÿÿÿ8øå˜í€3
-L	java:S106"+Replace this use of System.out by a logger.(——È×ÿÿÿÿÿ8‰æ˜í€3
-L	java:S106"+Replace this use of System.out by a logger.(®–íÇşÿÿÿÿ8Šæ˜í€3
-L	java:S106"+Replace this use of System.out by a logger.(ç¨üêúÿÿÿÿ8‹æ˜í€3
-L	java:S106"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8ç¯ší€3
+java:S1596"<Replace "Collections.EMPTY_SET" by "Collections.emptySet()".(®–íÇşÿÿÿÿ8šÙØ3
+Y
+java:S1854"7Remove this useless assignment to local variable "set".(êõğşÿÿÿÿ8ß”ó3
+L	java:S106"+Replace this use of System.out by a logger.(——È×ÿÿÿÿÿ8§ÙØ3
+L	java:S106"+Replace this use of System.out by a logger.(®–íÇşÿÿÿÿ8¨ÙØ3
+L	java:S106"+Replace this use of System.out by a logger.(ç¨üêúÿÿÿÿ8©ÙØ3
+L	java:S106"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8ªÙØ3
+L	java:S106"+Replace this use of System.out by a logger.(Ã™ƒÖüÿÿÿÿ8ªÙØ3
+G	java:S106"+Replace this use of System.out by a logger.(üÂ™ô8æ›Ù3
+J
+java:S1481"(Remove this unused "set" local variable.(êõğşÿÿÿÿ8æ”ó3
+]	java:S125"<This block of commented-out lines of code should be removed.(°ÔÎãÿÿÿÿÿ8æ”ó3
