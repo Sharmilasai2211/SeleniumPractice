@@ -10,7 +10,7 @@ jobs:
   build:
     name: Build and analyze
     runs-on: ubuntu-latest
-
+    
     steps:
       - uses: actions/checkout@v4
         with:
@@ -36,4 +36,4 @@ jobs:
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
           SONAR_HOST_URL: ${{ secrets.SONAR_HOST_URL }}
-        run: mvn -B verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar -Dsonar.projectKey=Sharmilasai2211_SeleniumPractice_8337fe49-3107-4394-9a85-5c1626769f43 -Dsonar.projectName='SeleniumPractice'
+        run: mvn -B verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar -Dsonar.projectKey=Sharmilasai2211_SeleniumPractice_f95cf7df-192a-4956-802f-15463fb3af9e -Dsonar.projectName='SeleniumPractice'
